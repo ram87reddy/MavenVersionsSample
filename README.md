@@ -9,7 +9,7 @@ mvn versions:set -DnewVersion=137.0.19 -DprocessDependencies=true
 
 it doesn't update the dependency.
 
-Here is the output:
+Here is the output
 
 Rams-MacBook-Pro:myartifact ramgaddam$ mvn versions:set -DnewVersion=137.0.23 -DprocessDependencies=false
 [INFO] Scanning for projects...
